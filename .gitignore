@@ -1,4 +1,4 @@
 node_modules
 .babelrc
-.eslint.yml
+.eslintrc.yml
 bin/rug.js
